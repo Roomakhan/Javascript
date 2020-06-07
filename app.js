@@ -766,7 +766,7 @@ var myList = [];
 var myList = Object();
 
 //Task # 3
-var arr = ['izkah','rooma'];
+var arr = ['sana','rooma'];
 
 //Task # 4
 var arr = [1,2,3,4,5,6,7];
@@ -775,7 +775,7 @@ var arr = [1,2,3,4,5,6,7];
 var arr = [true,false];
 
 //Task # 6
-var arr = ['izkah','rooma',1,2,3,true,false];
+var arr = ['sana','rooma',1,2,3,true,false];
 
 //Task # 7
 var arr = ['SSC','HSC','BCS','BS','BCOM','MS','M.Phill.','PhD'];
